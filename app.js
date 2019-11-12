@@ -30,7 +30,7 @@ document.querySelector('.btn-roll').addEventListener('click', function () {
         diceDOM.src = 'dice-' + dice + '.png';
         diceDOM_2.src = 'dice-' + dice2 + '.png';
 
-        if (dice !== 1 || dice2 !== 1) {
+        if (dice !== 1 && dice2 !== 1) {
             currentScore += dice;
             currentScore += dice2;
             document.getElementById('current-' + activePlayer).textContent = currentScore;
