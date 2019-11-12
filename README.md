@@ -1,5 +1,9 @@
 # dice-game
+created using html, css and vanilla js 
 
 Inspired by Jonas schmedtmann
 
-With my own tweaks of course! ;)
+Play Game - https://chiamakaibeme.github.io/dice-game/
+
+Note in the game, Winning score = 30
+
