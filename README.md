@@ -1,5 +1,7 @@
 # dice-game
+created using html, css and vanilla js 
 
 Inspired by Jonas schmedtmann
 
-With my own tweaks of course! ;)
+Note in the game, Winning score = 30
+
